@@ -1,9 +1,9 @@
 # Project02-SpaceShooter
 
 # Project Name
-Context and date
+Arcade space shooter
 Description
 ## Implementation
 ## References
 ## Future Development
-## Created by
+## Created by BOTOND KUN
